@@ -59,19 +59,19 @@ const HeroSection = () => {
 
                     {/* Whatsapp */}
                     <a
-                      href="https://wa.me/37493097970"
+                      href="https://wa.me/37494230495"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-3 p-3 rounded-xl bg-green-50 hover:bg-green-100 transition"
                     >
                       <FaWhatsapp className="text-green-500 text-2xl" />
-                      <span className="font-medium text-green-600">37493097970</span>
+                      <span className="font-medium text-green-600">37494230495</span>
                     </a>
 
                     {/* Phone */}
                     <div className="flex items-center gap-3 p-3 rounded-xl bg-gray-50">
                       <FaPhone className="text-gray-700 text-2xl" />
-                      <span className="font-medium text-gray-800">+37493097970</span>
+                      <span className="font-medium text-gray-800">+37494230495</span>
                     </div>
                   </div>
                 </DialogContent>
@@ -88,14 +88,14 @@ const HeroSection = () => {
                 style={{ animationDelay: "1s" }}
               ></div>
               <img
-                src="/assets/ceo-photo.jpg" // Լուսանկարն արդեն public/assets-ում է
+                src="/assets/ceo-photo.jpg"
                 alt="LiveGood CEO - Transforming lives through innovative health solutions"
                 className="relative z-10 w-96 h-96 sm:w-[25rem] sm:h-[28rem] rounded-full object-cover border-4 border-primary-foreground/30 shadow-deep hover:scale-105 transition-transform duration-700"
               />
             </div>
             <div className="mt-8 lg:hidden text-center">
               <p className="text-xl text-primary-foreground/90 font-light">
-                Здравствуйте, я Наре, партнёр компании LiveGood.
+                Здравствуйте, я Ани, партнёр компании LiveGood.
               </p>
             </div>
           </div>

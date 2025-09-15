@@ -40,21 +40,21 @@ const ChatbotSlideIn = () => {
         {/* Content */}
         <div className="p-4 flex flex-col items-center gap-3 text-center">
           <img
-            src="/assets/ceo-photo.jpg" // public ֆոլդերից
+            src="/assets/ceo-photo.jpg"
             alt="LiveGood CEO"
             className="w-20 h-20 rounded-full object-cover border-2 border-green-500 shadow-md"
           />
-          <h3 className="font-bold text-lg">Нарэ Аветисян</h3>
+          <h3 className="font-bold text-lg">Ани Аветисян</h3>
           <p className="text-green-600 font-medium text-sm">
             партнёр компании LiveGood
           </p>
 
           <div className="flex flex-col gap-2 mt-3 w-full">
             <a
-              href="tel:+37493225991"
+              href="tel:+37494230495"
               className="flex items-center gap-2 justify-center bg-green-100 text-green-700 py-1.5 rounded-lg text-sm hover:bg-green-200 transition"
             >
-              <FaPhone /> +374 93 225 991
+              <FaPhone /> +374 94 230 495
             </a>
             <a
               href="https://t.me/YourTelegramUsername"
